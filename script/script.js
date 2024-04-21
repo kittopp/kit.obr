@@ -7,7 +7,7 @@ $(document).ready(function () {
     });
   });
   $('#link').click(function(){
-    var link = "https://example.com"; // Replace this with your link
+    var link = "https://kittopp.github.io/kit.obr/"; // Replace this with your link
     var $temp = $("<input>");
     $("body").append($temp);
     $temp.val(link).select();
@@ -17,4 +17,4 @@ $(document).ready(function () {
   });
   
 
-  /*these are codes copied in the internet, sir. */
+  /*these codes are from the internet, sir. */
