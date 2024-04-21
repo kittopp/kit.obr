@@ -1,0 +1,18 @@
+@import url('style.css');
+
+/*PROFILES*/
+
+.fllwr img {
+    width: 150px;
+    margin: auto;
+}
+.fllwr {
+    margin-left: 0;
+    margin-right: 0;
+    width: 200px;
+    transition: transform 0.2s ease-out;
+}
+.fllwr:hover {
+    transition: transform 0.355s ease;
+    transform: scale(1.1);
+}
